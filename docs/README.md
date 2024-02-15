@@ -65,6 +65,23 @@
 	      <td><a href='https://github.com/jenkins-x-plugins/jx-build-controller'>0</a> <a href='https://github.com/jenkins-x-plugins/jx-build-controller.git'>1</a> </td>
 	    </tr>
     <tr>
+		      <td colspan='5'><h3>springboot-maven</h3></td>
+		    </tr>
+	    <tr>
+	      <td>jenkins</td>
+	      <td title='Jenkins - Build great things at any scale! The leading open source automation server, Jenkins provides over 1800 plugins to support building, deploying and automating any project.'><a href='https://jenkins.io/'> <img src='https://get.jenkins.io/art/jenkins-logo/logo.svg' width='24px' height='24px'> jenkins</a></td>
+	      <td></td>
+	      <td><a href='http://jenkins-springboot-maven.192.168.64.28.nip.io'>view</a></td>
+	      <td><a href='https://github.com/jenkinsci/jenkins'>0</a> <a href='https://github.com/jenkinsci/docker-inbound-agent'>1</a> <a href='https://github.com/maorfr/kube-tasks'>2</a> <a href='https://github.com/jenkinsci/configuration-as-code-plugin'>3</a> </td>
+	    </tr>
+    <tr>
+	      <td>jenkins-resources</td>
+	      <td title='A Helm chart for Jenkins Resources'><a href='https://github.com/jenkins-x-charts/jenkins-resources'> <img src='https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png' width='24px' height='24px'> jenkins-resources</a></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+    <tr>
 		      <td colspan='5'><h3>tekton-pipelines</h3></td>
 		    </tr>
 	    <tr>

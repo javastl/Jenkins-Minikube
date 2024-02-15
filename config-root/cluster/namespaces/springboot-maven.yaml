@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  creationTimestamp: null
+  labels:
+    name: springboot-maven
+    gitops.jenkins-x.io/pipeline: 'cluster'
+    team: 'jx'
+  name: springboot-maven
+spec: {}
+status: {}
